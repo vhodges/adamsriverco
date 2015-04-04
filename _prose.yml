@@ -1,0 +1,8 @@
+prose:
+  rooturl: 'src/content'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes

@@ -1,0 +1,4 @@
+baseurl = "http://adamsriver.co/"
+languageCode = "en-us"
+title = "Adams River Industries"
+publishdir = "../public"
